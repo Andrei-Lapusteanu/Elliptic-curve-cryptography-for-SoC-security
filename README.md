@@ -13,7 +13,7 @@
 # Functionality
 
 - Implementation of the Elliptic Curve Cryptography (ECC) on 163 bit keys
-- Project was written for the 
+- Project was written for the **Digilent Design Contest 2017** in a group of two people
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDcwNzQxMF19
+eyJoaXN0b3J5IjpbLTQwMTAyNjg5OV19
 -->
