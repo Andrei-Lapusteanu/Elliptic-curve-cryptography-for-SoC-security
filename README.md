@@ -9,7 +9,11 @@
 # Technologies
 
 - Written using **C/C++** syntax
-- 
+
+# Functionality
+
+- Implementation of the Elliptic Curve Cryptography (ECC) on 163 bit keys
+- Project was written for the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2NDgwMjczXX0=
+eyJoaXN0b3J5IjpbLTUyMDcwNzQxMF19
 -->
